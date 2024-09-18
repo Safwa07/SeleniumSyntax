@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24f313e5-a457-44c5-8dc2-c8736ea650ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChromeDriverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FirefoxDriverDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestNgDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/actions/Click.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/browserCommands/BrowserCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataDriven/usingDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/elementsActions/DropDownListAndIsPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/elementsActions/Submit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/elementsActions/TestCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/elementsActions/TestTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/elementsActions/WorkingWithTextboxAndButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByCssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByLinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByTagNameInTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/ByXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/findingElements/FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/util/TestIsElementPresent.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kryBMhrlDOSNPMZbgB9cHuHBMw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.BrowserCommands.useBrowserCommands.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByClass.findElementByClassName.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByCssSelector.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByCssSelector.findElementByCssSelector.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByID.findElementByID.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByLinks.findElementByTagName.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByName.findElementByID.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByName.findElementByName.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByTagName.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByTagNameInTables.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByTagNameInTables.findElementByTagNameInTable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByXpath.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ByXpath.findElementByAttributeValueWithXPath.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Click.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropDownList.testIsPresent.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropDownList.workingWithElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DropDownListAndIsPresent.testIsPresent.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FindElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FindElements.findElementInList.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Submit.workingWithElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestCheckboxes.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestNgDemo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestTables.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestTables.workingWithElements.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WorkingWithTextboxAndButton.workingWithElements.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/safwa/OneDrive/Desktop/selenium course/selenium-java-4.23.1/selenium-support-4.23.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Quality testing/Learn and tools/eclipse-workspace/HelloJava02/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.dataDriven" />
+      <recent name="org.example.elementsActions" />
+      <recent name="org.example.findingElements" />
+      <recent name="org.example.actions" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DropDownListAndIsPresent.testIsPresent">
+    <configuration name="DropDownListAndIsPresent.testIsPresent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.elementsActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.elementsActions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.elementsActions.DropDownListAndIsPresent" />
+      <option name="METHOD_NAME" value="testIsPresent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DropDownListAndIsPresent.workingWithElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.elementsActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.elementsActions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.elementsActions.DropDownListAndIsPresent" />
+      <option name="METHOD_NAME" value="workingWithElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCheckboxes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.elementsActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.elementsActions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.elementsActions.TestCheckboxes" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTables" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.elementsActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.elementsActions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.elementsActions.TestTables" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTables.workingWithElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HelloJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.elementsActions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.elementsActions" />
+      <option name="MAIN_CLASS_NAME" value="org.example.elementsActions.TestTables" />
+      <option name="METHOD_NAME" value="workingWithElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DropDownListAndIsPresent.testIsPresent" />
+        <item itemvalue="TestNG.TestTables" />
+        <item itemvalue="TestNG.TestTables.workingWithElements" />
+        <item itemvalue="TestNG.TestCheckboxes" />
+        <item itemvalue="TestNG.DropDownListAndIsPresent.workingWithElements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f313e5-a457-44c5-8dc2-c8736ea650ef" name="Changes" comment="" />
+      <created>1724055855719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724055855719</updated>
+      <workItem from="1724055856788" duration="33192000" />
+      <workItem from="1725189052154" duration="7767000" />
+      <workItem from="1725964024744" duration="2685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
